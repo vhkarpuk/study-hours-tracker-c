@@ -1,7 +1,11 @@
-# Study Hours Tracker (C Language)
+# ⏳ Study Hours Tracker (C Project)
 
-This repository contains a C program developed as part of my **Problem Solving portfolio** at Solent University.  
-The program tracks study hours for up to ten subjects across two consecutive weeks, checks against a weekly study goal, and provides a per-subject comparison of hours.
+![C](https://img.shields.io/badge/language-C-blue)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Last Commit](https://img.shields.io/github/last-commit/vhkarpuk/study-hours-tracker-c)
+
+A simple **C program** to track weekly study hours for multiple subjects.  
+Part of a programming foundations portfolio, practicing **variables, operators, loops, and input/output**.
 
 ## Features
 - Input validation to prevent negative or invalid values.
